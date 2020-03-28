@@ -1,4 +1,4 @@
-// This is a simple app made for the Docker article of the machinelearnit.com
+// This is a simple app made for my docker article on machinelearnit.com
 
 'use strict';
 
