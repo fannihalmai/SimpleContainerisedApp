@@ -2,6 +2,7 @@
 # Latest Ubuntu image
 FROM ubuntu:latest
 
+
 # Install nodejs and npm
 RUN apt-get update --quiet \
 && apt-get install -y --quiet nodejs \
